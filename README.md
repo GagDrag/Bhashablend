@@ -31,19 +31,6 @@ The project is entirely based on Python and leverages the following libraries an
 - [Pillow](https://python-pillow.org/)
 - [BART](https://github.com/facebookresearch/fairseq/tree/main/examples/bart)
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/BhashaBlend.git
-    cd BhashaBlend
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 ### Project Flow
